@@ -1,3 +1,4 @@
+"""Core utilities for this package."""
 from cert_expiry_watch.cli import main
 
 if __name__ == "__main__":
